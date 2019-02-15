@@ -1,0 +1,3 @@
+Cancer(person)
+Friends(person,person)
+Smokes(person)

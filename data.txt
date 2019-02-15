@@ -1,0 +1,12 @@
+data ###
+Cancer(Ann)
+!Cancer(Bob)
+!Friends(Ann,Bob)
+Smokes(Tom)
+Smokes(Alex)
+Smokes(Jason)
+!Smokes(Tommy)
+Cancer(Alex)
+!Cancer(Jason)
+Cancer(Tommy)
+Friends(Tommy,Alex)
