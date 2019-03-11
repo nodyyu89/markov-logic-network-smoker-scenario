@@ -1,0 +1,2 @@
+Smokes(x) => Cancer(x)
+Friends(x,y) => (Smokes(x) <=> Smokes(y))
